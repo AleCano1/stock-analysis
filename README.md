@@ -6,8 +6,8 @@ The files contain two periods of data: 2017 and 2018. Also contain eight columns
 
 
 ### Questions
-* What are the total daily volume for DQ?, And for all the stocks?
-* What are the return for DQ?, And for all the stocks?
+* What are the total daily volume for DQ?
+* What are the return for DQ?
 
 ### Results
 
