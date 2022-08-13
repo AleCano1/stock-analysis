@@ -16,6 +16,6 @@ At the click of a button, we can analyze an entire dataset to know the results o
 
 <img width="247" alt="DAQO" src="https://user-images.githubusercontent.com/96165500/184470268-ed92fea4-ca1e-4986-8544-3f38cd3987f0.png">
 
-### summarize
+### Summarize
 
 In this case, it is better to analyze another company, and its shares to check if it has a better return and total daily volume to increase the probability of having a good opportunity to invest and get a positive return.
