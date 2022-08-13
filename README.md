@@ -6,10 +6,13 @@ The files contain two periods of data: 2017 and 2018. Also contain eight columns
 
 
 ### Questions
-
+* What are the total daily volume for DQ?, And for all the stocks?
+* What are the return for DQ?, And for all the stocks?
 
 ### Results
 
+At the click of a button, we can analyze an entire dataset, it appears an input window to write which year the iser wats to analyze.
+Starting with 2017, we can see first, a window that show us that 
 <img width="216" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/96165500/184459112-05d21ed5-d4a3-4629-973e-c8e8cc502161.png">
 <img width="230" alt="VBA_Challenge_2017_table" src="https://user-images.githubusercontent.com/96165500/184459121-ab728583-9867-427c-b52c-73c6a26be134.png">
 <img width="233" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/96165500/184459127-adc7fb8d-82bd-4738-b706-520d7d695b3e.png">
