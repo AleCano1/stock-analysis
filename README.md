@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-analysis
 In this project, Steve's parents want to invest in green energy, so Steve decided to invest in DAQO New Energy Corp (DQ), a company that makes silicon wafers for solar panels. Daqo's stock and another company's stock data were analyzed with an excel extension to automate the task, called Visual Basic for Applications.
 
 ### Data source
